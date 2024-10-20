@@ -39,7 +39,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
+[MIT](https://github.com/boluoim/remix-shadcn-sidebar/blob/main/LICENSE)
 
 ## Acknowledgements
 
