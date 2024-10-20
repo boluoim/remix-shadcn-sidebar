@@ -6,11 +6,10 @@ This project provides a Remix integration template using the Shadcn UI Sidebar c
 
 ## Features
 
-- Remix framework integration
-- Shadcn UI Sidebar component
-- Responsive design
-- Easy customization
-- TypeScript support
+[x] TypeScript support
+[x] Remix framework integration
+[x] shadcn/ui Sidebar component
+[ ] Routes
 
 ## Quick Start
 
